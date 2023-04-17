@@ -1,4 +1,4 @@
-<h1>JavaScript basics using arrays methods<h1>
+#JavaScript basics using arrays methods
 1-Calculate the Square of a Number.
 2-Calculate Square-root of a Number.
 3-copy-all-elements-from-an-array-to-another-array.
